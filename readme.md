@@ -1,7 +1,7 @@
-#Road Detection Project (FastAPI-Python)
+# Road Detection Project (FastAPI-Python)
 
 
-###Requirement 
+### Requirement 
 - Python 3.12 Installation
 ```bash
 sudo apt update && sudo apt upgrade -y
@@ -22,7 +22,8 @@ sudo apt install python3.12-venv
 ```
 
 
-###Installation Process
+
+### Installation Process
 - Clone this repository
 
 ```bash 
