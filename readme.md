@@ -1,5 +1,28 @@
-Road Detection based on FastAPI python
+#Road Detection Project (FastAPI-Python)
 
+
+###Requirement 
+- Python 3.12 Installation
+```bash
+sudo apt update && sudo apt upgrade -y
+
+sudo add-apt-repository ppa:deadsnakes/ppa
+
+sudo apt update
+
+apt list | grep python3.12
+
+sudo apt install python3.12
+
+python3.12 --version
+```
+- Python 3.12 virtual environment
+```bash
+sudo apt install python3.12-venv
+```
+
+
+###Installation Process
 - Clone this repository
 
 ```bash 
