@@ -1,4 +1,4 @@
-# Road Detection Project (FastAPI-Python)
+# Python FastAPI Boilerplate (FastAPI-Python-SQLAlchemy-Postgresql)
 
 
 ### Requirement 
